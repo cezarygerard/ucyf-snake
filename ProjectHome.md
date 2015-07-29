@@ -1,0 +1,1 @@
+Project developed at Warsaw University of Technology intended to acquaint us with vhdl and fpga programming.
